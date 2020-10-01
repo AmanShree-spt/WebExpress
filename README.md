@@ -42,7 +42,7 @@ This browser is using CefSharp. You can find it on: https://github.com/cefsharp/
   }
   ```
   
-  The extensions are loading to the `webview`. Code of extension is executing after page load event.
+  The extensions are being loaded to the `webview`. Code of extension is executed after the page load event.
 
 # Authors
 This code was created by Eryk Rakowski (Sential)
